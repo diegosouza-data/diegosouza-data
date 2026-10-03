@@ -14,26 +14,10 @@ I’m constantly learning through **practical projects, experimentation, and con
 
 <p align="left">
 
-  <a href="https://github.com/diegosouza005">
-    <img 
-      src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/diego-souza1910/">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://www.kaggle.com/diegosoza05">
-    <img 
-      src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"
-      alt="Kaggle"
-    />
-  </a>
+<a href="https://github.com/diegosouza005"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/diego-souza1910/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.kaggle.com/diegosoza05"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
+<a href="mailto:contatodiegosoza@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
 
 </p>
 
