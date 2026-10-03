@@ -1,108 +1,107 @@
-<!-- ========================================================
-  GitHub Profile README — Refined Visual Template
-  Replace placeholders with your own information.
-  ======================================================== -->
+# Hi 👋, I'm **Diego Souza**
 
-<!-- ======================== HEADER ======================== -->
+🚀 **Computer Science Student | Aspiring Data Engineer**
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=YOUR+NAME;YOUR+ROLE;YOUR+SPECIALIZATION;YOUR+FOCUS+AREA"
-    alt="Typing SVG"
-  />
-</p>
+🇧🇷 **Brazil**
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
-</p>
+I’m a **Computer Science student at FMU**, currently focused on building my knowledge in **Data Engineering, programming, databases, and data processing**.
 
-<p align="center">
-  <a href="YOUR-LINKEDIN">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+I’m constantly learning through **practical projects, experimentation, and continuous study**, with the goal of developing **solid technical skills** and building solutions with data.
 
-  <a href="YOUR-GITHUB">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+---
+
+## 🌐 **Where to find me**
+
+<p align="left">
+
+  <a href="https://github.com/diegosouza005">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
       alt="GitHub"
     />
   </a>
 
-  <a href="YOUR-PORTFOLIO">
-    <img
-      src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"
-      alt="Portfolio"
+  <a href="https://www.linkedin.com/in/diego-souza1910/">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
-</p>
 
-<br>
-
-<!-- ======================== INTRO ======================== -->
-
-<h2 align="center">⚡ About Me</h2>
-
-<p align="center">
-  <i>YOUR SHORT DESCRIPTION GOES HERE</i>
-</p>
-
-<br>
-
-<!-- ======================== PROFILE ======================== -->
-
-```python
-profile = {
-    "name": "YOUR NAME",
-    "role": "YOUR ROLE",
-    "focus": [
-        "AREA OF FOCUS",
-        "AREA OF FOCUS",
-        "AREA OF FOCUS",
-    ],
-    "currently_learning": [
-        "TECHNOLOGY",
-        "TECHNOLOGY",
-        "TECHNOLOGY",
-    ],
-}
-```
-
-<br>
-
-<!-- ======================== TOOLKIT ======================== -->
-
-<h2 align="center">🛠️ Technical Toolkit</h2>
-
-<h3 align="center">Programming & Data</h3>
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+  <a href="https://www.kaggle.com/diegosoza05">
+    <img 
+      src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"
+      alt="Kaggle"
+    />
+  </a>
 
 </p>
 
-<h3 align="center">Data Engineering</h3>
+---
 
-<p align="center">
+## 🧠 **What I’m focused on**
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apache-airflow\&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
+- 🐍 **Python & programming**
+- 🗄️ **Databases & SQL**
+- 📊 **Data analysis & processing**
+- 🔄 **Data pipelines & ETL**
+- ⚙️ **Data Engineering concepts**
+- ☁️ **Cloud & data technologies**
+- 🤖 **Automation & integrations**
+- 📚 **Continuous learning & practical projects**
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Data & Databases**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="left">
+
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=diegosouza005&show_icons=true&theme=tokyonight&count_private=true"
+  />
+
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosouza005&layout=compact&theme=tokyonight"
+  />
 
 </p>
 
-<h3 align="center">Databases & Infrastructure</h3>
+---
 
-<p align="center">
+## 🚀 **Philosophy**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3)
+> *"Education does not change the world. Education changes people. People change the world."*
+>
+> — **Paulo Freire**
+
+---
+
+⭐ **Always learning, building, and improving.**
+
+🤝 **Open to collaboration, learning, and new opportunities.**
