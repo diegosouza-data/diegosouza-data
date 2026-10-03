@@ -2,7 +2,7 @@
 
 🚀 **Computer Science Student | Aspiring Data Engineer**
 
-🇧🇷 **Brazil**
+<img src="https://flagcdn.com/w20/br.png" width="20"> **Brazil**
 
 I’m a **Computer Science student at FMU**, currently focused on building my knowledge in **Data Engineering, programming, databases, and data processing**.
 
